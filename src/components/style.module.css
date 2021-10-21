@@ -1,4 +1,6 @@
 .card {
     padding: 1em;
-    border: 1px solid red;
+    border: 10px solid fuchsia;
+    color: fuchsia;
+    background-color: chartreuse;
 }
