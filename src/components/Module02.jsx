@@ -6,7 +6,7 @@ export const Module02 = ({ test }) => {
   return (
     <div className={style.card}>
       <h1>MODULE 02</h1>
-      <Display counter={666} />
+      <Display counter={1} />
       {test}
     </div>
   );
