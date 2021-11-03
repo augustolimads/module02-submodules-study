@@ -1,5 +1,6 @@
 import { Module02 } from "./components/Module02";
 import "./App.css";
+import "./styles.scss";
 
 function App() {
   return (
